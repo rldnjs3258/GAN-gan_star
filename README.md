@@ -1,2 +1,7 @@
 # GAN-gan_star
-It is a repository for learning gan and doing some projects about it.
+
+<br>
+
+ - This is gan_star, not a gangster!
+ - This repository includes theories, studies, codes and ideas about GAN
+ - Our team will do some projects using GAN.
